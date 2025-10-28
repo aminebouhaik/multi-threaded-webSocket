@@ -15,6 +15,7 @@ javac ServeurMT.java ClientMT.java
 Run this command in your terminal to start the server:
 java ServeurMT
 <img width="690" height="96" alt="image" src="https://github.com/user-attachments/assets/57eb5430-adc2-4ab9-9154-01bf5dc4af36" />
+
 You should see:
 Serveur démarré sur le port 12345
 
