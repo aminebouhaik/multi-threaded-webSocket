@@ -20,8 +20,11 @@ java ClientMT
 
 4️⃣ Example interaction
 Entrez le premier nombre (a) : 10
+
 Entrez l'opération (+, -, *, /) : *
+
 Entrez le deuxième nombre (b) : 5
+
 Résultat: 50.0
 
 
